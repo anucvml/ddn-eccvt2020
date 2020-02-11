@@ -7,9 +7,7 @@
 ---
 
 [Program](#program) |
-[Invited Speakers](#invited-speakers) |
-[Submission](#submission) |
-[Important Dates](#important-dates) |
+[Speakers](#invited-speakers) |
 [Organizers](#organizers)
 
  
