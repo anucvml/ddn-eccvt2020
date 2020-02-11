@@ -95,7 +95,16 @@ TBA
       ANU
     </div>
   </div>
-  <div class="col-xs-3">
+    <div class="col-xs-3">
+    <a href="http://bamos.github.io/" target="_blank">
+      <img class="people-pic" src="assets/bamos.png">
+    </a>
+    <div class="people-name text-center">
+      <a href="http://bamos.github.io/" target="_blank">Brandon Amos</a><br>
+      Facebook AI
+    </div>
+   </div>
+     <div class="col-xs-3">
     <a href="https://www.itzikbs.com" target="_blank">
       <img class="people-pic" src="assets/ybenshabat.jpg">
     </a>
