@@ -13,7 +13,7 @@
 [Organizers](#organizers)
 
  
-Conventional deep learning architectures involve composition of simple and explicitly defined feedforward processing functions. Recently, researchers have been exploring deep learning models with implicitly defined components. To distinguish these from conventional deep learning models they are called  **deep declarative networks** (DDN), borrowing nomenclature from the programming languages community ([Gould et al., 2019](https://arxiv.org/abs/1909.04866))..
+Conventional deep learning architectures involve composition of simple and explicitly defined feedforward processing functions. Recently, researchers have been exploring deep learning models with implicitly defined components. To distinguish these from conventional deep learning models they are called  **deep declarative networks** (DDN), borrowing nomenclature from the programming languages community ([Gould et al., 2019](https://arxiv.org/abs/1909.04866)).
 <center>
 <img src="assets/declarative_node.png" width="50%">
 </center>
