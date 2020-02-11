@@ -8,7 +8,8 @@
 
 [Program](#program) |
 [Speakers](#invited-speakers) |
-[Organizers](#organizers)
+[Organizers](#organizers) |
+[Links and Resources](#Links and Resources)
 
  
 Conventional deep learning architectures involve composition of simple and explicitly defined feedforward processing functions. Recently, researchers have been exploring deep learning models with implicitly defined components. To distinguish these from conventional deep learning models they are called  **deep declarative networks** (DDN), borrowing nomenclature from the programming languages community ([Gould et al., 2019](https://arxiv.org/abs/1909.04866)).
@@ -118,3 +119,7 @@ TBA
 <p>
 Contact: <a href="mailto:eccv2020@deepdeclarativenetworks.com">eccv2020@deepdeclarativenetworks.com</a>
 </p>
+
+## Links and Resources
+* [CVXPY](https://www.cvxpy.org/) 
+* [DDN](https://github.com/anucvml/ddn)
