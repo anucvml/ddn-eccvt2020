@@ -51,7 +51,7 @@ This tutorial will introduce deep declarative networks and their variants. We wi
 TBA
 
 ## Speakers
-
+<div class="row">
   <div class="col-xs-3">
     <a href="https://cecs.anu.edu.au/people/stephen-gould/" target="_blank">
       <img class="people-pic" src="assets/sgould.jpg">
@@ -61,7 +61,7 @@ TBA
       ANU
     </div>
   </div>
-    <div class="col-xs-3">
+  <div class="col-xs-3">
     <a href="https://sites.google.com/view/djcampbell/" target="_blank">
       <img class="people-pic" src="assets/dcampbell.jpg">
     </a>
