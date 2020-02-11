@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="css/main.css?1" media="screen,projection">
 
 ## Deep Declarative Networks
-[ECCV 2020 Tutorial](https://eccv2020.eu/workshops-and-tutorials/), XX August, Glasgow, Ireland
+[ECCV 2020 Tutorial](https://eccv2020.eu/workshops-and-tutorials/), 23-28 August, Glasgow, Ireland
 
 ---
 
@@ -12,13 +12,13 @@
 [Important Dates](#important-dates) |
 [Organizers](#organizers)
 
-Conventional deep learning architectures involve composition of simple feedforward processing functions that are explicitly defined. Recently, researchers have been exploring deep learning models with implicitly defined components. To distinguish these from conventional deep learning models we call them **deep declarative networks**, borrowing nomenclature from the programming languages community ([Gould et al., 2019](https://arxiv.org/abs/1909.04866)).
-
+ 
+Conventional deep learning architectures involve composition of simple and explicitly defined feedforward processing functions. Recently, researchers have been exploring deep learning models with implicitly defined components. To distinguish these from conventional deep learning models they are called  **deep declarative networks** (DDN), borrowing nomenclature from the programming languages community ([Gould et al., 2019](https://arxiv.org/abs/1909.04866))..
 <center>
 <img src="assets/declarative_node.png" width="50%">
 </center>
 
-Conventional deep learning architectures involve composition of simple and explicitly defined feedforward processing functions. Recently, researchers have been exploring deep learning models with implicitly defined components. To distinguish these from conventional deep learning models they are called deep declarative networks (DNN).
+
 
 The deep declarative network’s processing node requires solving an optimization problem in the forward pass, which is parameterized by the inputs to the node, and computing the gradients for back-propagation through the node. This requires the optimization problem to be differentiable, i.e., being able to compute the gradient of the solution with respect to the node’s input. 
 A few recent works have studied various optimization problem classes and shown how backpropagation is possible even without prior knowledge of the algorithm used for solving the optimization problem 
