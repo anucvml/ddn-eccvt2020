@@ -12,29 +12,17 @@
 [Links and Resources](#Links-and-Resources)
 
  
-Conventional deep learning architectures involve composition of simple and explicitly defined feedforward processing functions. Recently, researchers have been exploring deep learning models with implicitly defined components. To distinguish these from conventional deep learning models they are called  **deep declarative networks** (DDN), borrowing nomenclature from the programming languages community ([Gould et al., 2019](https://arxiv.org/abs/1909.04866)).
+Conventional deep learning architectures involve composition of simple and explicitly defined feedforward processing functions (inner products, convolutions, elementwise non-linear transforms and pooling operations). Over the past several years researchers have been exploring deep learning models with embedded differentiable optimization problems ([Agrawal et al., 2019](http://web.stanford.edu/~boyd/papers/pdf/diff_cvxpy.pdf); 
+[Amos and Kotler, 2017](https://github.com/locuslab/optnet); 
+[Gould et al., 2016](https://arxiv.org/abs/1607.05447)), and recently these models have been applied to solving problems in computer vision (e.g., [Fernando and Gould, 2016](http://proceedings.mlr.press/v48/fernando16.pdf); 
+ [Cherian et al., 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cherian_Generalized_Rank_Pooling_CVPR_2017_paper.pdf), [Santa Cruz et al., 2018](https://ieeexplore.ieee.org/document/8481554),
+[Lee et al., 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Meta-Learning_With_Differentiable_Convex_Optimization_CVPR_2019_paper.pdf), [Wang et al., 2019](https://arxiv.org/abs/1905.12149)) and other areas of machine learning.
+
+Since these networks define the behavior rather than algorithmic implementation of individual processing layers they are called deep declarative networks (DDNs), borrowing nomenclature from the programming languages community ([Gould et al., 2019](https://arxiv.org/abs/1909.04866)). Importantly, the gradient of the solution to the optimization problem with respect to inputs and parameters can be calculated even without prior knowledge of the algorithm used for solving the optimization problem in the first place, allowing for efficient backpropagation and end-to-end learning.
+
 <center>
 <img src="assets/declarative_node.png" width="50%">
 </center>
-
-
-
-The deep declarative network’s processing node requires solving an optimization problem in the forward pass, which is parameterized by the inputs to the node, and computing the gradients for back-propagation through the node. This requires the optimization problem to be differentiable, i.e., being able to compute the gradient of the solution with respect to the node’s input. 
-A few recent works have studied various optimization problem classes and shown how backpropagation is possible even without prior knowledge of the algorithm used for solving the optimization problem 
-(([Agrawal et al., 2019b](http://web.stanford.edu/~boyd/papers/pdf/diff_cvxpy.pdf); 
-[Agrawal et al., 2019a](https://web.stanford.edu/~boyd/papers/pdf/diff_cone_prog.pdf); 
-[Amos, 2019](http://reports-archive.adm.cs.cmu.edu/anon/2019/CMU-CS-19-109.pdf); 
-[Pfau et al. 2019](https://arxiv.org/abs/1806.02215); 
-[Amos and Kotler, 2017](https://github.com/locuslab/optnet); 
-[Gould et al., 2016](https://arxiv.org/abs/1607.05447)). ). 
-These ideas have been applied to various problems including video classification 
-(([Fernando and Gould, 2016](http://proceedings.mlr.press/v48/fernando16.pdf); 
- [Cherian et al., 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cherian_Generalized_Rank_Pooling_CVPR_2017_paper.pdf), 
- [Wang and Cherian, 2019](https://ieeexplore.ieee.org/document/8812898))), 
- attribute ranking  ([Santa Cruz et al., 2018](https://ieeexplore.ieee.org/document/8481554)),
- meta-learning  ([Lee et al., 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Meta-Learning_With_Differentiable_Convex_Optimization_CVPR_2019_paper.pdf)).
-, decision making ([Donti et.al, 2017](https://papers.nips.cc/paper/7132-task-based-end-to-end-model-learning-in-stochastic-optimization.pdf)), 
-and control ([East et.al. 2020](https://arxiv.org/pdf/2001.02244.pdf)).
 
 ### Topics
 
@@ -130,5 +118,7 @@ Contact: <a href="mailto:eccv2020@deepdeclarativenetworks.com">eccv2020@deepdecl
 </p>
 
 ## Links and Resources
-* [CVXPY](https://www.cvxpy.org/) 
-* [DDN](https://github.com/anucvml/ddn)
+* [CVXPY](https://www.cvxpy.org/): Convex optimization, for everyone
+* [CVXPYLAYERS](https://github.com/cvxgrp/cvxpylayers): Differentiable convex optimization layers
+* [DDN](https://github.com/anucvml/ddn): Deep Declarative Networks
+* [OPTNET](https://github.com/locuslab/optnet): Differentiable Optimization as a Layer in Neural Networks
