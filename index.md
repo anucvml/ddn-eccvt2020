@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="css/main.css?1" media="screen,projection">
 
 ## Deep Declarative Networks
-[ECCV 2020 Tutorial](https://eccv2020.eu/workshops-and-tutorials/), 23-28 August, Glasgow, Ireland
+[ECCV 2020 Tutorial](https://eccv2020.eu/workshops-and-tutorials/), 23-28 August, Glasgow, UK
 
 ---
 
@@ -70,6 +70,15 @@ TBA
     <div class="people-name text-center">
       <a href="https://sites.google.com/view/djcampbell/" target="_blank">Dylan Campbell</a><br>
       ANU
+    </div>
+  </div>
+    <div class="col-xs-3">
+    <a href="http://web.stanford.edu/~stevend2/" target="_blank">
+      <img class="people-pic" src="assets/sdiamond.jpg">
+    </a>
+    <div class="people-name text-center">
+      <a href="http://web.stanford.edu/~stevend2/" target="_blank">Steven Diamond</a><br>
+      
     </div>
   </div>
 </div>
