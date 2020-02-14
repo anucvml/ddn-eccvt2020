@@ -77,7 +77,7 @@ TBA
     </a>
     <div class="people-name text-center">
       <a href="http://web.stanford.edu/~stevend2/" target="_blank">Steven Diamond</a><br>
-      
+      Stanford
     </div>
   </div>
 </div>
