@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="css/main.css?1" media="screen,projection">
 
 ## Deep Declarative Networks
-[ECCV 2020 Tutorial](https://eccv2020.eu/workshops-and-tutorials/), 23-28 August, Glasgow, UK
+[ECCV 2020 Tutorial](https://eccv2020.eu/workshops-and-tutorials/), 28 August, Glasgow, UK
 
 ---
 
@@ -34,6 +34,7 @@ This tutorial will introduce deep declarative networks and their variants. We wi
 *	Implementation techniques and gotchas.
 
 ## Program
+The tutorial will take place in Room Boisdale 2 on Friday, August 28 (afternoon)
 
 TBA
 
