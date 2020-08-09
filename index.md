@@ -9,7 +9,7 @@
 [Program](#program) |
 [Speakers](#speakers) |
 [Organizers](#organizers) |
-[Links and Resources](#<Links and Resources>)
+[Links and Resources](#links)
 
 
 Conventional deep learning architectures involve composition of simple and explicitly defined feedforward processing functions (inner products, convolutions, elementwise non-linear transforms and pooling operations). Over the past several years researchers have been exploring deep learning models with embedded differentiable optimization problems ([Agrawal et al., 2019](http://web.stanford.edu/~boyd/papers/pdf/diff_cvxpy.pdf);
