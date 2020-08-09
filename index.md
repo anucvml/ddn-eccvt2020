@@ -2,14 +2,14 @@
 <link rel="stylesheet" type="text/css" href="css/main.css?1" media="screen,projection">
 
 ## Deep Declarative Networks
-[ECCV 2020 Tutorial](https://eccv2020.eu/workshops-and-tutorials/), 28 August, Glasgow, UK
+[ECCV 2020 Tutorial](https://eccv2020.eu/workshops-and-tutorials/), 28 August, Glasgow, UK (online)
 
 ---
 
 [Program](#program) |
 [Speakers](#speakers) |
 [Organizers](#organizers) |
-[Links and Resources](#Links and Resources)
+[Links and Resources](#Links-and-Resources)
 
 
 Conventional deep learning architectures involve composition of simple and explicitly defined feedforward processing functions (inner products, convolutions, elementwise non-linear transforms and pooling operations). Over the past several years researchers have been exploring deep learning models with embedded differentiable optimization problems ([Agrawal et al., 2019](http://web.stanford.edu/~boyd/papers/pdf/diff_cvxpy.pdf);
