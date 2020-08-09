@@ -68,6 +68,15 @@ TBA
       <a href="http://web.stanford.edu/~stevend2/" target="_blank">Steven Diamond</a><br>
       Stanford
     </div>
+	<div class="col-xs-3">
+    <a href="http://bamos.github.io/" target="_blank">
+      <img class="people-pic" src="assets/bamos.png">
+    </a>
+    <div class="people-name text-center">
+      <a href="http://bamos.github.io/" target="_blank">Brandon Amos</a><br>
+      Facebook AI
+    </div>
+   </div>
   </div>
 </div>
 
