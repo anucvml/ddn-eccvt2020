@@ -34,9 +34,14 @@ This tutorial will introduce deep declarative networks and their variants. We wi
 *	Implementation techniques and gotchas.
 
 ## Program
-The tutorial will take place in Room Boisdale 2 on Friday, August 28 (afternoon)
+The tutorial will be avilable online. It consists of six videos that are subdivided into two main modules - the Deep Declarative Network module (DDN) and the differentiable convex optimiztaion module(CO):
+* DDN - Basic concepts and Theory (Stephen Gould)
+* DDN - Applications (Dylan Campbell)
+* DDN - Hands-on coding using the DDn codebase (Dylan Campbell)
+* CO - Background and basic concepts(Steven Diamond)
+* CO - Implementation considerations and applications (Brandon Amos)
+* CO - Hands-on coding with CVXpy (Akshay Agrawal) 
 
-TBA
 
 ## Speakers
 
@@ -75,6 +80,14 @@ TBA
     <div class="people-name text-center">
       <a href="http://bamos.github.io/" target="_blank">Brandon Amos</a><br>
       Facebook AI
+    </div>
+   </div>
+   <a href="https://www.akshayagrawal.com/" target="_blank">
+      <img class="people-pic" src="assets/akshay_agrawal.jpg">
+    </a>
+    <div class="people-name text-center">
+      <a href="https://www.akshayagrawal.com/" target="_blank">Akshay Agrawal</a><br>
+     Stanford
     </div>
    </div>
   </div>
