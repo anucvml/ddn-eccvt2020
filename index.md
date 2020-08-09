@@ -92,7 +92,6 @@ The tutorial will be avilable online. It consists of six videos that are subdivi
      Stanford
     </div>
    </div>
-
 </div>
 
 
