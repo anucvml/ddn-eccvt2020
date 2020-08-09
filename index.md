@@ -11,10 +11,10 @@
 [Organizers](#organizers) |
 [Links and Resources](#Links-and-Resources)
 
- 
-Conventional deep learning architectures involve composition of simple and explicitly defined feedforward processing functions (inner products, convolutions, elementwise non-linear transforms and pooling operations). Over the past several years researchers have been exploring deep learning models with embedded differentiable optimization problems ([Agrawal et al., 2019](http://web.stanford.edu/~boyd/papers/pdf/diff_cvxpy.pdf); 
-[Amos and Kotler, 2017](https://github.com/locuslab/optnet); 
-[Gould et al., 2016](https://arxiv.org/abs/1607.05447)), and recently these models have been applied to solving problems in computer vision (e.g., [Fernando and Gould, 2016](http://proceedings.mlr.press/v48/fernando16.pdf); 
+
+Conventional deep learning architectures involve composition of simple and explicitly defined feedforward processing functions (inner products, convolutions, elementwise non-linear transforms and pooling operations). Over the past several years researchers have been exploring deep learning models with embedded differentiable optimization problems ([Agrawal et al., 2019](http://web.stanford.edu/~boyd/papers/pdf/diff_cvxpy.pdf);
+[Amos and Kotler, 2017](https://github.com/locuslab/optnet);
+[Gould et al., 2016](https://arxiv.org/abs/1607.05447)), and recently these models have been applied to solving problems in computer vision (e.g., [Fernando and Gould, 2016](http://proceedings.mlr.press/v48/fernando16.pdf);
  [Cherian et al., 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cherian_Generalized_Rank_Pooling_CVPR_2017_paper.pdf), [Santa Cruz et al., 2018](https://ieeexplore.ieee.org/document/8481554),
 [Lee et al., 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Meta-Learning_With_Differentiable_Convex_Optimization_CVPR_2019_paper.pdf), [Wang et al., 2019](https://arxiv.org/abs/1905.12149)) and other areas of machine learning.
 
@@ -34,13 +34,13 @@ This tutorial will introduce deep declarative networks and their variants. We wi
 *	Implementation techniques and gotchas.
 
 ## Program
-The tutorial will be avilable online. It consists of six videos that are subdivided into two main modules - the Deep Declarative Network module (DDN) and the differentiable convex optimiztaion module(CO):
+The tutorial will be avilable online. It consists of six videos that are subdivided into two main modules - the Deep Declarative Network module (DDN) and the differentiable convex optimiztaion module (CO):
 * DDN - Basic concepts and Theory (Stephen Gould)
 * DDN - Applications (Dylan Campbell)
 * DDN - Hands-on coding using the DDn codebase (Dylan Campbell)
 * CO - Background and basic concepts(Steven Diamond)
 * CO - Implementation considerations and applications (Brandon Amos)
-* CO - Hands-on coding with CVXpy (Akshay Agrawal) 
+* CO - Hands-on coding with CVXpy (Akshay Agrawal)
 
 
 ## Speakers
@@ -55,7 +55,7 @@ The tutorial will be avilable online. It consists of six videos that are subdivi
       ANU
     </div>
   </div>
-  
+
   <div class="col-xs-3">
     <a href="https://sites.google.com/view/djcampbell/" target="_blank">
       <img class="people-pic" src="assets/dcampbell.jpg">
@@ -83,6 +83,7 @@ The tutorial will be avilable online. It consists of six videos that are subdivi
       Facebook AI
     </div>
    </div>
+   <div class="col-xs-3">
    <a href="https://www.akshayagrawal.com/" target="_blank">
       <img class="people-pic" src="assets/akshay_agrawal.jpg">
     </a>
@@ -91,6 +92,7 @@ The tutorial will be avilable online. It consists of six videos that are subdivi
      Stanford
     </div>
    </div>
+
 </div>
 
 
@@ -106,7 +108,7 @@ The tutorial will be avilable online. It consists of six videos that are subdivi
       ANU
     </div>
   </div>
-  
+
   <div class="col-xs-3">
     <a href="https://sites.google.com/view/djcampbell/" target="_blank">
       <img class="people-pic" src="assets/dcampbell.jpg">
