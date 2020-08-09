@@ -73,6 +73,7 @@ The tutorial will be avilable online. It consists of six videos that are subdivi
       <a href="http://web.stanford.edu/~stevend2/" target="_blank">Steven Diamond</a><br>
       Stanford
     </div>
+	</div>
 	<div class="col-xs-3">
     <a href="http://bamos.github.io/" target="_blank">
       <img class="people-pic" src="assets/bamos.png">
@@ -90,7 +91,6 @@ The tutorial will be avilable online. It consists of six videos that are subdivi
      Stanford
     </div>
    </div>
-  </div>
 </div>
 
 
