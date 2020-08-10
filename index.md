@@ -42,7 +42,7 @@ The tutorial will be avilable online. It consists of six videos that are subdivi
 * CO - Implementation considerations and applications (Brandon Amos)
 * CO - Hands-on coding with CVXpy (Akshay Agrawal)
 
-If you have any questions, join us at onbe of the Q&A sessions on Friday, August 28th at 8:30 or at 22:00 (Glasgow GMT)
+Join us at one of the Q&A sessions on Friday, August 28th at 8:30 or at 22:00 (Glasgow GMT)
 
 ## Speakers
 
