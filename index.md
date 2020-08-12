@@ -147,3 +147,5 @@ Contact: <a href="mailto:eccv2020@deepdeclarativenetworks.com">eccv2020@deepdecl
 * [CVXPYLAYERS](https://github.com/cvxgrp/cvxpylayers): Differentiable convex optimization layers
 * [DDN](https://github.com/anucvml/ddn): Deep Declarative Networks
 * [OPTNET](https://github.com/locuslab/optnet): Differentiable Optimization as a Layer in Neural Networks
+* [DDN hands-on coding session notebook](https://github.com/anucvml/ddn/blob/master/tutorials/08_ddn_pytorch_node.ipynb): Notebook presented in Dylan's talk.
+* [CVXPYlayers hands-on coding session notebook](https://github.com/cvxgrp/cvxpylayers/blob/master/examples/torch/signal_denoising.ipynb): Notebook presented in Akshay's talk.
