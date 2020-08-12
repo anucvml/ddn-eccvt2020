@@ -132,7 +132,7 @@ Join us at one of the Q&A sessions on Friday, August 28th at 8:30 or at 22:00 (G
       <img class="people-pic" src="assets/ybenshabat.jpg">
     </a>
     <div class="people-name text-center">
-      <a href="https://www.itzikbs.com" target="_blank">Yizhak (Itzik) Ben-Shabat</a><br>
+      <a href="https://www.itzikbs.com" target="_blank">Yizhak Ben-Shabat (Itzik) </a><br>
       ANU
     </div>
   </div>
