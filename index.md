@@ -34,13 +34,13 @@ This tutorial will introduce deep declarative networks and their variants. We wi
 *	Implementation techniques and gotchas.
 
 ## Program
-The tutorial will be avilable online. It consists of six videos that are subdivided into two main modules - the Deep Declarative Network module (DDN) and the differentiable convex optimiztaion module (CO):
+The tutorial will be avilable online. It consists of six videos that are subdivided into two main modules - the Deep Declarative Network module (DDN) and the differentiable convex optimization module (CO):
 * DDN - Basic concepts and Theory (Stephen Gould)
 * DDN - Applications (Dylan Campbell)
-* DDN - Hands-on coding using the DDn codebase (Dylan Campbell)
+* DDN - Hands-on coding using the DDN codebase (Dylan Campbell)
 * CO - Background and basic concepts(Steven Diamond)
 * CO - Implementation considerations and applications (Brandon Amos)
-* CO - Hands-on coding with CVXpy (Akshay Agrawal)
+* CO - Hands-on coding with CVXPY (Akshay Agrawal)
 
 Join us at one of the Q&A sessions on Friday, August 28th at 8:30 or at 22:00 (Glasgow GMT)
 
