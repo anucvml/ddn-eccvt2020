@@ -43,8 +43,8 @@ The tutorial will be available online. It consists of six videos that are subdiv
 * CO - Hands-on coding with CVXPY (Akshay Agrawal)
 
 Join us at one of the Q&A sessions on Friday, August 28th:
-* (Session 1 at 8:30 (UTC+1))[https://bitly.com/3aDYPAm]
-* (Session 2 at 22:00 (UTC+1))[https://bitly.com/323YWBg]
+* (Session 1 )[https://bitly.com/3aDYPAm] at 8:30 (UTC+1)
+* (Session 2 )[https://bitly.com/323YWBg] at 22:00 (UTC+1)
 
 ## Speakers
 
