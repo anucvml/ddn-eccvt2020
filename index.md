@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="css/main.css?1" media="screen,projection">
 
 ## Deep Declarative Networks
-[ECCV 2020 Tutorial](https://eccv2020.eu/workshops-and-tutorials/), 28 August, Glasgow, UK (online)
+ECCV 2020 Tutorial, 28 August, Glasgow, UK (online)
 
 ---
 
@@ -34,14 +34,14 @@ This tutorial will introduce deep declarative networks and their variants. We wi
 *	Implementation techniques and gotchas.
 
 ## Program
-The tutorial is available on [ECCV2020 online platform](https://workshopsandtutorials.eccv2020.eu/papers/subject/deep-declarative-networks/) and on the [ANU CVML YouTUbe channel]((https://www.youtube.com/playlist?list=PLD-7XrNHCcFITANECta7DscRTC0gL2208)).
+The tutorial is available on [ECCV2020 online platform](https://workshopsandtutorials.eccv2020.eu/papers/subject/deep-declarative-networks/) and on the [ANU CVML YouTUbe channel](https://www.youtube.com/playlist?list=PLD-7XrNHCcFITANECta7DscRTC0gL2208).
  It is a playlist that consists of six videos that are subdivided into two main modules - the Deep Declarative Network module (DDN) and the Differentiable Convex Optimiztaion Module (CO):
 * DDN - Basic concepts and Theory (Stephen Gould). [ECCV2020 platform](https://workshopsandtutorials.eccv2020.eu/paper/325/), [YouTube](https://www.youtube.com/watch?v=fnJIj906qoA&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208&index=2&t=0s)
-* DDN - Applications (Dylan Campbell). [ECCV2020 platform], [YouTube]
-* DDN - Hands-on coding using the DDn codebase (Dylan Campbell). [ECCV2020 platform], [YouTube]
-* CO - Background and basic concepts(Steven Diamond). [ECCV2020 platform], [YouTube]
-* CO - Implementation considerations and applications (Brandon Amos). [ECCV2020 platform], [YouTube]
-* CO - Hands-on coding with CVXpy (Akshay Agrawal). [ECCV2020 platform], [YouTube]
+* DDN - Applications (Dylan Campbell). [ECCV2020 platform](https://workshopsandtutorials.eccv2020.eu/paper/326/), [YouTube](https://www.youtube.com/watch?v=nCPtZRTQnbU&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208&index=2)
+* DDN - Hands-on coding using the DDn codebase (Dylan Campbell). [ECCV2020 platform](https://workshopsandtutorials.eccv2020.eu/paper/327/), [YouTube](https://www.youtube.com/watch?v=Y3ZosbeYhf0&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208&index=3)
+* CO - Background and basic concepts(Steven Diamond). [ECCV2020 platform](https://workshopsandtutorials.eccv2020.eu/paper/328/), [YouTube](https://www.youtube.com/watch?v=oCDCtHwU4KY&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208&index=4)
+* CO - Implementation considerations and applications (Brandon Amos). [ECCV2020 platform](https://workshopsandtutorials.eccv2020.eu/paper/329/), [YouTube](https://www.youtube.com/watch?v=2xwhlD1zgMg&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208&index=5)
+* CO - Hands-on coding with CVXpy (Akshay Agrawal). [ECCV2020 platform](https://workshopsandtutorials.eccv2020.eu/paper/327/), [YouTube](https://www.youtube.com/watch?v=qJy2utKTrsY&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208&index=6)
 
 Join us at one of the live Q&A sessions on Friday, August 28th:
 * [Session 1](https://bitly.com/3aDYPAm) at 8:30 (UTC+1)
