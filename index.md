@@ -41,7 +41,7 @@ The tutorial is available on [ECCV2020 online platform](https://workshopsandtuto
 * DDN - Hands-on coding using the DDn codebase (Dylan Campbell). [ECCV2020 platform](https://workshopsandtutorials.eccv2020.eu/paper/327/), [YouTube](https://www.youtube.com/watch?v=Y3ZosbeYhf0&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208&index=3)
 * CO - Background and basic concepts(Steven Diamond). [ECCV2020 platform](https://workshopsandtutorials.eccv2020.eu/paper/328/), [YouTube](https://www.youtube.com/watch?v=oCDCtHwU4KY&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208&index=4)
 * CO - Implementation considerations and applications (Brandon Amos). [ECCV2020 platform](https://workshopsandtutorials.eccv2020.eu/paper/329/), [YouTube](https://www.youtube.com/watch?v=2xwhlD1zgMg&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208&index=5)
-* CO - Hands-on coding with CVXpy (Akshay Agrawal). [ECCV2020 platform](https://workshopsandtutorials.eccv2020.eu/paper/327/), [YouTube](https://www.youtube.com/watch?v=qJy2utKTrsY&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208&index=6)
+* CO - Hands-on coding with CVXpy (Akshay Agrawal). [ECCV2020 platform](https://workshopsandtutorials.eccv2020.eu/paper/452/), [YouTube](https://www.youtube.com/watch?v=qJy2utKTrsY&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208&index=6)
 
 Join us at one of the live Q&A sessions on Friday, August 28th:
 * [Session 1](https://bitly.com/3aDYPAm) at 8:30 (UTC+1)
