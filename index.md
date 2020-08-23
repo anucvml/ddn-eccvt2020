@@ -34,13 +34,14 @@ This tutorial will introduce deep declarative networks and their variants. We wi
 *	Implementation techniques and gotchas.
 
 ## Program
-The tutorial will be available online. It consists of six videos that are subdivided into two main modules - the Deep Declarative Network module (DDN) and the differentiable convex optimization module (CO):
-* DDN - Basic concepts and Theory (Stephen Gould)
-* DDN - Applications (Dylan Campbell)
-* DDN - Hands-on coding using the DDN codebase (Dylan Campbell)
-* CO - Background and basic concepts(Steven Diamond)
-* CO - Implementation considerations and applications (Brandon Amos)
-* CO - Hands-on coding with CVXPY (Akshay Agrawal)
+The tutorial is available on [ECCV2020 online platform](https://workshopsandtutorials.eccv2020.eu/papers/subject/deep-declarative-networks/) and on the [ANU CVML YouTUbe channel]((https://www.youtube.com/playlist?list=PLD-7XrNHCcFITANECta7DscRTC0gL2208)).
+ It is a playlist that consists of six videos that are subdivided into two main modules - the Deep Declarative Network module (DDN) and the Differentiable Convex Optimiztaion Module (CO):
+* DDN - Basic concepts and Theory (Stephen Gould). [ECCV2020 platform](https://workshopsandtutorials.eccv2020.eu/paper/325/), [YouTube](https://www.youtube.com/watch?v=fnJIj906qoA&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208&index=2&t=0s)
+* DDN - Applications (Dylan Campbell). [ECCV2020 platform], [YouTube]
+* DDN - Hands-on coding using the DDn codebase (Dylan Campbell). [ECCV2020 platform], [YouTube]
+* CO - Background and basic concepts(Steven Diamond). [ECCV2020 platform], [YouTube]
+* CO - Implementation considerations and applications (Brandon Amos). [ECCV2020 platform], [YouTube]
+* CO - Hands-on coding with CVXpy (Akshay Agrawal). [ECCV2020 platform], [YouTube]
 
 Join us at one of the live Q&A sessions on Friday, August 28th:
 * [Session 1](https://bitly.com/3aDYPAm) at 8:30 (UTC+1)
